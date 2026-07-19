@@ -1,0 +1,104 @@
+OPDA Adaptation ON Office, nbr=1
+OPDA Office 0->1 -3 Best: H-Score: 0.896, nbr: 1
+OPDA Office 0->2 -3 Best: H-Score: 0.814, nbr: 1
+OPDA Office 1->0 -3 Best: H-Score: 0.882, nbr: 1
+OPDA Office 1->2 -3 Best: H-Score: 0.824, nbr: 1
+OPDA Office 2->0 -3 Best: H-Score: 0.879, nbr: 1
+OPDA Office 2->1 -3 Best: H-Score: 0.929, nbr: 1
+OPDA Adaptation ON Office-Home, nbr=1
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.769, nbr: 1
+OPDA OfficeHome 0->2 -3 Best: H-Score: 0.880, nbr: 1
+OPDA OfficeHome 0->3 -3 Best: H-Score: 0.886, nbr: 1
+OPDA OfficeHome 1->0 -3 Best: H-Score: 0.862, nbr: 1
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.872, nbr: 1
+OPDA OfficeHome 1->3 -3 Best: H-Score: 0.882, nbr: 1
+OPDA OfficeHome 2->0 -3 Best: H-Score: 0.860, nbr: 1
+OPDA OfficeHome 2->1 -3 Best: H-Score: 0.768, nbr: 1
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.884, nbr: 1
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.860, nbr: 1
+OPDA OfficeHome 3->1 -3 Best: H-Score: 0.765, nbr: 1
+OPDA OfficeHome 3->2 -3 Best: H-Score: 0.884, nbr: 1
+OPDA Adaptation ON Office, nbr=2
+OPDA Office 0->1 -3 Best: H-Score: 0.902, nbr: 2
+OPDA Office 0->2 -3 Best: H-Score: 0.826, nbr: 2
+OPDA Office 1->0 -3 Best: H-Score: 0.881, nbr: 2
+OPDA Office 1->2 -3 Best: H-Score: 0.825, nbr: 2
+OPDA Office 2->0 -3 Best: H-Score: 0.880, nbr: 2
+OPDA Office 2->1 -3 Best: H-Score: 0.931, nbr: 2
+OPDA Adaptation ON Office-Home, nbr=2
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.773, nbr: 2
+OPDA OfficeHome 0->2 -3 Best: H-Score: 0.876, nbr: 2
+OPDA OfficeHome 0->3 -3 Best: H-Score: 0.887, nbr: 2
+OPDA OfficeHome 1->0 -3 Best: H-Score: 0.863, nbr: 2
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.874, nbr: 2
+OPDA OfficeHome 1->3 -3 Best: H-Score: 0.883, nbr: 2
+OPDA OfficeHome 2->0 -3 Best: H-Score: 0.861, nbr: 2
+OPDA OfficeHome 2->1 -3 Best: H-Score: 0.767, nbr: 2
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.883, nbr: 2
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.861, nbr: 2
+OPDA OfficeHome 3->1 -3 Best: H-Score: 0.765, nbr: 2
+OPDA OfficeHome 3->2 -3 Best: H-Score: 0.882, nbr: 2
+OPDA Adaptation ON Office, nbr=3
+OPDA Office 0->1 -3 Best: H-Score: 0.895, nbr: 3
+OPDA Office 0->2 -3 Best: H-Score: 0.824, nbr: 3
+OPDA Office 1->0 -3 Best: H-Score: 0.879, nbr: 3
+OPDA Office 1->2 -3 Best: H-Score: 0.825, nbr: 3
+OPDA Office 2->0 -3 Best: H-Score: 0.879, nbr: 3
+OPDA Office 2->1 -3 Best: H-Score: 0.943, nbr: 3
+OPDA Adaptation ON Office-Home, nbr=3
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.764, nbr: 3
+OPDA OfficeHome 0->2 -3 Best: H-Score: 0.876, nbr: 3
+OPDA OfficeHome 0->3 -3 Best: H-Score: 0.885, nbr: 3
+OPDA OfficeHome 1->0 -3 Best: H-Score: 0.862, nbr: 3
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.874, nbr: 3
+OPDA OfficeHome 1->3 -3 Best: H-Score: 0.884, nbr: 3
+OPDA OfficeHome 2->0 -3 Best: H-Score: 0.859, nbr: 3
+OPDA OfficeHome 2->1 -3 Best: H-Score: 0.765, nbr: 3
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.887, nbr: 3
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.861, nbr: 3
+OPDA OfficeHome 3->1 -3 Best: H-Score: 0.770, nbr: 3
+OPDA OfficeHome 3->2 -3 Best: H-Score: 0.883, nbr: 3
+OPDA Adaptation ON Office, nbr=4
+OPDA Office 0->1 -3 Best: H-Score: 0.895, nbr: 4
+OPDA Office 0->2 -3 Best: H-Score: 0.824, nbr: 4
+OPDA Office 1->0 -3 Best: H-Score: 0.883, nbr: 4
+OPDA Office 1->2 -3 Best: H-Score: 0.825, nbr: 4
+OPDA Office 2->0 -3 Best: H-Score: 0.880, nbr: 4
+OPDA Office 2->1 -3 Best: H-Score: 0.942, nbr: 4
+OPDA Adaptation ON Office-Home, nbr=4
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.771, nbr: 4
+OPDA OfficeHome 0->2 -3 Best: H-Score: 0.879, nbr: 4
+OPDA OfficeHome 0->3 -3 Best: H-Score: 0.886, nbr: 4
+OPDA OfficeHome 1->0 -3 Best: H-Score: 0.864, nbr: 4
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.876, nbr: 4
+OPDA OfficeHome 1->3 -3 Best: H-Score: 0.884, nbr: 4
+OPDA OfficeHome 2->0 -3 Best: H-Score: 0.860, nbr: 4
+OPDA OfficeHome 2->1 -3 Best: H-Score: 0.769, nbr: 4
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.884, nbr: 4
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.861, nbr: 4
+OPDA OfficeHome 3->1 -3 Best: H-Score: 0.770, nbr: 4
+OPDA OfficeHome 3->2 -3 Best: H-Score: 0.886, nbr: 4
+OPDA Adaptation ON Office, nbr=6
+OPDA Office 0->1 -3 Best: H-Score: 0.898, nbr: 6
+OPDA Office 0->2 -3 Best: H-Score: 0.813, nbr: 6
+OPDA Office 1->0 -3 Best: H-Score: 0.878, nbr: 6
+OPDA Office 1->2 -3 Best: H-Score: 0.828, nbr: 6
+OPDA Office 2->0 -3 Best: H-Score: 0.881, nbr: 6
+OPDA Office 2->1 -3 Best: H-Score: 0.942, nbr: 6
+OPDA Adaptation ON Office-Home, nbr=6
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.770, nbr: 6
+OPDA OfficeHome 0->2 -3 Best: H-Score: 0.879, nbr: 6
+OPDA OfficeHome 0->3 -3 Best: H-Score: 0.886, nbr: 6
+OPDA OfficeHome 1->0 -3 Best: H-Score: 0.863, nbr: 6
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.879, nbr: 6
+OPDA OfficeHome 1->3 -3 Best: H-Score: 0.884, nbr: 6
+OPDA OfficeHome 2->0 -3 Best: H-Score: 0.860, nbr: 6
+OPDA OfficeHome 2->1 -3 Best: H-Score: 0.769, nbr: 6
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.886, nbr: 6
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.859, nbr: 6
+OPDA OfficeHome 3->1 -3 Best: H-Score: 0.763, nbr: 6
+OPDA OfficeHome 3->2 -3 Best: H-Score: 0.884, nbr: 6
+OPDA OfficeHome 0->1 -3 Best: H-Score: 0.768, nbr: 5
+OPDA OfficeHome 1->2 -3 Best: H-Score: 0.877, nbr: 5
+OPDA OfficeHome 2->3 -3 Best: H-Score: 0.886, nbr: 5
+OPDA OfficeHome 3->0 -3 Best: H-Score: 0.862, nbr: 5

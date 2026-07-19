@@ -1,0 +1,12 @@
+OPDA Adaptation ON VisDA, nbr=1
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830, nbr: 1
+OPDA Adaptation ON VisDA, nbr=2
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829, nbr: 2
+OPDA Adaptation ON VisDA, nbr=3
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829, nbr: 3
+OPDA Adaptation ON VisDA, nbr=4
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829, nbr: 4
+OPDA Adaptation ON VisDA, nbr=5
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830, nbr: 5
+OPDA Adaptation ON VisDA, nbr=6
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830, nbr: 6

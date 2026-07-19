@@ -1,0 +1,40 @@
+OPDA Adaptation ON Office, nbr=1
+OPDA Office -3 Avg.: H-Score: 0.871
+OPDA Adaptation ON Office, nbr=2
+OPDA Office -3 Avg.: H-Score: 0.874
+OPDA Adaptation ON Office, nbr=3
+OPDA Office -3 Avg.: H-Score: 0.874
+OPDA Adaptation ON Office, nbr=4
+OPDA Office -3 Avg.: H-Score: 0.875
+OPDA Adaptation ON Office, nbr=5
+OPDA Office -3 Avg.: H-Score: 0.875
+OPDA Adaptation ON Office, nbr=6
+OPDA Office -3 Avg.: H-Score: 0.873
+
+
+OPDA Adaptation ON Office-Home, nbr=1
+OPDA Office-Home -3 Avg.: H-Score: 0.848
+OPDA Adaptation ON Office-Home, nbr=2
+OPDA Office-Home -3 Avg.: H-Score: 0.848
+OPDA Adaptation ON Office-Home, nbr=3
+OPDA Office-Home -3 Avg.: H-Score: 0.848
+OPDA Adaptation ON Office-Home, nbr=4
+OPDA Office-Home -3 Avg.: H-Score: 0.849
+OPDA Adaptation ON Office-Home, nbr=5
+OPDA Office-Home -3 Avg.: H-Score: 0.849
+OPDA Adaptation ON Office-Home, nbr=6
+OPDA Office-Home -3 Avg.: H-Score: 0.849
+
+
+OPDA Adaptation ON VisDA, nbr=1
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830
+OPDA Adaptation ON VisDA, nbr=2
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829
+OPDA Adaptation ON VisDA, nbr=3
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829
+OPDA Adaptation ON VisDA, nbr=4
+OPDA VisDA 0->1 -2 Best: H-Score: 0.829
+OPDA Adaptation ON VisDA, nbr=5
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830
+OPDA Adaptation ON VisDA, nbr=6
+OPDA VisDA 0->1 -2 Best: H-Score: 0.830
